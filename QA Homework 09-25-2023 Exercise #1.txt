@@ -1,0 +1,62 @@
+BASIC QA Teacher: Bulich Pavel
+Subject: QA & Testing
+Group: 260623-e
+Date: 25.09.2023
+Deadline: 03.10.2023
+Student: Yelena Zimin
+
+1 уровень сложности: Задание 1. Представьте, вам надо протестировать сайт (https://www.aliexpress.com/). Как думаете, в каких браузерах стали бы его проверять (учесть различия браузеров между собой и то что есть смартфоны и там тоже свои браузеры)?
+
+If I would receive a task to test the https://www.aliexpress.com/ website,
+
+I would take in account:
+1) the diversity of people in our world
+2) browsers availability for each country
+3) devices that people may use
+
+Next, I would visit https://gs.statcounter.com/browser-market-share/mobile/worldwide website
+I would read and find out:
+- the most popular browsers
+- different devices
+- what country use internet the most %!
+
+The most popular browsers that need to checked https://www.aliexpress.com/ website at are:
+- Internet Explorer (IE)
+- Google Chrome
+- Mozila Firefox
+- Opera
+- Safari
+- Yandex (Яндекс)
+
+We also have devices that are available for each person: cellphones, smartphones, apple, android. They have other browsers as:
+- Google Chrome
+- Firefox Mobile
+- UC Browser
+- Brave Browser
+- Opera Mobile Browser
+- DuckDuck Go
+- Android
+- Sumsung Internet
+THESE are another browsers on which I need to test my https://www.aliexpress.com/ website!
+
+Also, there are browsers at which we should test https://www.aliexpress.com/ website, they are:
+- Microsoft Edge		- Google
+- Tor				- UC Browser
+- Adblock			- Bing
+- Brave				- Yahoo
+- Baidu				- Aloha Browser
+- Lunascope			- Avast Secure Browser
+- Cake Browser			- Epic
+- UR Browser			- Hola Browser
+
+If we search for other available browsers we may need to test https://www.aliexpress.com/ website at:
+- it is http://freeadvice.ru/browsers.php website which lists other untested browsers
+And people may use them for their needs and some may use what is available!
+
+In Conclusion, I would suggest checking https://www.aliexpress.com/ wedsite considering:
+- if there is a demand for website
+- worldwide browsers
+- popular browsers
+- accesssible browsers
+- accessible devices
+THEN PERFORM TESTS FOR https://www.aliexpress.com/ CONSIDERING ALL THAT ABOVE!!!
